@@ -93,3 +93,10 @@ header ~ img {
     font-weight: bolder;
     font-size: 1.2em;
 }
+
+footer {
+    background-color: #081A24;
+    color: #288692;
+    text-align: center;
+    padding: 10px;
+}
