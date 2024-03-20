@@ -70,3 +70,18 @@ header ~ img {
     font-weight: bold;
     letter-spacing: 5px;
 }
+
+.about {
+    background: url(imagens/bg_detalhe.png) no-repeat right bottom;
+    background-size: cover;
+    color: white;
+    padding: 50px;
+}
+
+.about h2 {
+    margin-bottom: 20px;
+}
+
+.about p {
+    width: 70%;
+}
